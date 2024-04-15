@@ -1,5 +1,12 @@
 public class APLine
 {
-  /* your code here */
-  
+  public APLine (int a, int b, int c) {
+
+  }
+  public double getSlope() {
+
+  }
+  public boolean isOnline() {
+
+  }
 }
